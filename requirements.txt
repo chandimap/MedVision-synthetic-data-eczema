@@ -1,0 +1,12 @@
+numpy
+opencv-python
+matplotlib
+Pillow
+scikit-learn
+tensorflow
+tensorflow-gan
+Augmentor
+rembg
+torch
+torchvision
+google-api-python-client
